@@ -1,0 +1,17 @@
+caption {
+  text-align: center;
+}
+th,
+td {
+  border: 1px solid;
+  padding: 10px;
+  /*padding-right: 10px;*/
+  vertical-align: top;
+  width: 200px;
+}
+table {
+  border-collapse: collapse;
+}
+b {
+  padding: 10px;
+}
